@@ -1,6 +1,9 @@
 
 # ignore local database stuff:
 
+
 migrations/
 
 *.db
+
+*.env

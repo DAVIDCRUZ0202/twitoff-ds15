@@ -25,8 +25,8 @@ if __name__ == "__main__":
     embeddings = list(connection.embed_sentences(sentences))
 
 
-    print(embeddings)
-    # Check the length, the type, the class of this embedding.
-    print(type(embedding)) - # object is list
-    print(type(embedding[0])) - # float class
-    print(len(embeddings)) - # Length of 768
+    # print(embeddings)
+    # # Check the length, the type, the class of this embedding.
+    # print(type(embedding)) - # object is list
+    # print(type(embedding[0])) - # float class
+    # print(len(embeddings)) - # Length of 768
